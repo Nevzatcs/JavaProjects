@@ -3,7 +3,7 @@
 Bu repo yapmış olduğum basit-orta düzey Java projelerini paylaşmak için oluşturulmuştur.
 
 # Information
-Java Swing kütüphanesiyle oluşturulmuş projeler eklenecektir.
+Java Swing kütüphanesiyle oluşturulmuş projeler de eklenecektir.
 #  Usage
 Yazılan kodlar Intellij IDEA üzerinden yazılmıştır.
 
