@@ -1,6 +1,6 @@
 # JavaProjects
 
-Bu repo yapmış olduğum basit-orta düzey Java projelerini paylaşmak için oluşturulmuştur.
+Bu repo yapmış olduğum basit-orta düzey Java projelerini paylaşmak için oluşturulmuştur. Swing kütüphanesiyle oluşturulmuş projeler eklenecektir.
 
 # Information
 Java Swing kütüphanesiyle oluşturulmuş projeler de eklenecektir.
